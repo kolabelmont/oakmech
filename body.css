@@ -286,7 +286,7 @@ body{
     }
     .img-logo{
         height:100%;
-        width:100%;
+        width:auto;
         margin-top: 10px;
     }
 
