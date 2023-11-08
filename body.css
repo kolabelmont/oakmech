@@ -280,8 +280,9 @@ body{
         z-index: 1;
     }
     .img-logo{
-    height:fit-content;
-        flex-direction: column;
+    height:auto;
+        max-width:150px;
+        display:block;
     }
 
     body{
