@@ -47,6 +47,7 @@ nav a:hover{
 
 nav li:first-child{
     margin-right: auto;
+    display: flex;
     align-items: flex-start;
     margin-left: 15px;
 }
