@@ -280,7 +280,8 @@ body{
         z-index: 1;
     }
     .img-logo{
-    height:auto;
+        margin-top:10px
+        height:auto;
         max-width:150px;
         display:block;
     }
