@@ -284,8 +284,6 @@ body{
         flex-direction: column;
     }
     .img-logo{
-        width:100%;
-        height:auto;
         display: block;
     }
 
