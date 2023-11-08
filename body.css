@@ -276,9 +276,12 @@ body{
         height: fit-content;
         padding-top: 10px;
         padding-bottom: 5px;
+        heigth:50px
         z-index: 1;
     }
-
+    .img-logo{
+    height:fit-content;
+    }
 
     body{
         flex-direction: column;
