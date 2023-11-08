@@ -272,12 +272,15 @@ body{
     .menu-btn{
         display:block ;
     }
-    nav{
+       nav{
         height: fit-content;
         padding-top: 10px;
         padding-bottom: 5px;
         height: 50px;
         z-index: 1;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
 
 
@@ -285,9 +288,9 @@ body{
         flex-direction: column;
     }
     .img-logo{
-        width:50px;
-        margin-top:10px;
-        display:block;
+        max-width: 150px;
+        height: auto;
+        display: block;
     }
 
     .grid-service{
