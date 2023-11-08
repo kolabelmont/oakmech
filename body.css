@@ -286,6 +286,7 @@ body{
     }
     .img-logo{
         height: fit-content;
+        align-items: flex-start;
         margin-top: 10px;
     }
 
