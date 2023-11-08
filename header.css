@@ -2,6 +2,7 @@
 
 .img-logo{
     width: 150px;
+    display:block;
     align-items: flex-start;
     height: fit-content;
 }
