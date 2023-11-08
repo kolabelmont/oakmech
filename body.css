@@ -285,8 +285,7 @@ body{
         flex-direction: column;
     }
     .img-logo{
-        height: auto;
-        align-items: flex-start;
+        height: 35px;
         margin-top: 10px;
     }
 
