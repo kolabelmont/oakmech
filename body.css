@@ -285,7 +285,8 @@ body{
         flex-direction: column;
     }
     .img-logo{
-        max-width: 100px;
+        max-width: 100%;
+        width:100px;
         height:auto;
         display: block;
     }
