@@ -285,10 +285,9 @@ body{
         flex-direction: column;
     }
     .img-logo{
-        width:auto;
         height:auto;
         max-width:100%;
-        margin-top: 10px;
+        display:block;
     }
 
     .grid-service{
