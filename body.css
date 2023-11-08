@@ -283,9 +283,7 @@ body{
     body{
         flex-direction: column;
     }
-    .img-logo{
-        display: block;
-    }
+
 
     .grid-service{
         margin-bottom: 800px;
